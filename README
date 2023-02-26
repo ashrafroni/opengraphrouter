@@ -1,0 +1,20 @@
+-------
+Summary
+-------
+
+OpenGraphRouter is a system for building road networks into a network
+graph file. The network graph file can then be used to solve various
+graph analysis on the network and to generate driving instruction.
+
+A project to create of open source routing engine for navigation and
+possibly other graph analysis. Our goal is to build a commercial grade
+routing engine capable of find routes through 25-30 million node
+networks in 1 second ball park times.
+
+This project is starting out as a Google Summer of Code 2009 project.
+This GSoC project is the work of Mohammad Ashraf Hossain and is being
+mentored by Stephen Woodbridge. For more information see:
+
+https://sourceforge.net/projects/opengraphrouter/
+
+
